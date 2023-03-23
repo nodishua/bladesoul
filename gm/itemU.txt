@@ -1,0 +1,374 @@
+0,Silver Coins
+1,The God Stone
+2,Black God Stone
+3,Blue God Stone
+4,Black God Stone
+5,Hero Plank
+6,Wugong Essence
+7,Internal Energy Essence
+8,General Spirit Stone
+9,Advanced Spirit Stone
+10,The Highest Grade Spirit Stone
+11,Preserved Stone
+12,Unknown
+13,Exchange Mint
+14,Hongmen Essence
+15,Crimson Essence
+16,Blue Essence
+enh10002, batu enchant senjata
+enh20002, batu enchant acc
+pac10032,Hero Costume Bag
+use60003, Potion lvl 150
+epe10062, pet naga
+epe10011, pet 1
+epe10012, pet 2
+epe10013, pet 3
+epe10014, pet 4
+epe10015, pet 5
+epe10021, pet 6
+epe10022, pet 7
+epe10023, pet 8
+epe10024, pet 9
+epe10025, pet 10
+epe10031, pet 11
+epe10032, pet 12
+epe10033, pet 13
+epe10034, pet 14
+epe10035, pet 15
+eb130071, Bamba bopae 1
+eb230071, Bamba bopae 2
+eb330071, Bamba bopae 3
+eb430071, Bamba bopae 4
+eb530071, Bamba bopae 5
+eb630071, Bamba bopae 6
+eb730071, Bamba bopae 7
+eb830071, Bamba bopae 8
+eea40012, axe 1
+ene40012, axe 2
+eri40012, axe 3
+ebr40012, axe 4
+eea40112, axe 5
+ene40112, axe 6
+eri40112, axe 7
+ebr40112, axe 8
+ewe41111, weapon 1
+ewe42111, weapon 2
+ewe43111, weapon 3
+ewe44111, weapon 4
+ewe45111, weapon 5
+use60003, 17
+eb140021, geogeobuung
+eb240021, geogeobuung
+eb340021, geogeobuung
+eb440021, geogeobuung
+eb540021, geogeobuung
+eb640021, geogeobuung
+eb740021, geogeobuung
+eb840021, geogeobuung
+dcr00001, drc 1
+dcr00002, drc 2
+dcr00003, drc 3
+dcr00004, drc 4
+dcr00005, drc 5
+dcr00006, drc 6
+dcr00007, drc 7
+dcr00008, drc 8
+dcr00009, drc 9
+dcr00010, drc 10
+dcr00011, drc 11
+dcr00012, drc 12
+dcr00017, drc 17
+dcr00018, drc 18
+dcr00019, drc 19
+dcr00020, drc 20
+ess00003, ess1
+ess10003, ess2
+ess20003, ess3
+wei40001, 99;
+csp00001, 1;
+food0002, 99;
+use60001, 99;
+use60002, 99;
+use60003, 99;
+skb10001, blademaster 1;
+skb10002, blademaster 1;
+skb10003, blademaster 1;
+skb10004, blademaster 1;
+skb10005, blademaster 1;
+skb10006, blademaster 1;
+skb10007, blademaster 1;
+skb10008, blademaster 1;
+skb10009, blademaster 1;
+skb10010, blademaster 1;
+skb10012, blademaster 1;
+skb10013, blademaster 1;
+skb10014, blademaster 1;
+skb10015, blademaster 1;
+skb10016, blademaster 1;
+skb10017, blademaster 1;
+skb10018, blademaster 1;
+skb10019, blademaster 1;
+skb20001, destroyer 1;
+skb20003, destroyer 1;
+skb20004, destroyer 1;
+skb20005, destroyer 1;
+skb20006, destroyer 1;
+skb20007, destroyer 1;
+skb20008, destroyer 1;
+skb20009, destroyer 1;
+skb20010, destroyer 1;
+skb20011, destroyer 1;
+skb20012, destroyer 1;
+skb20013, destroyer 1;
+skb20014, destroyer 1;
+skb20015, destroyer 1;
+skb20016, destroyer 1;
+skb20017, destroyer 1;
+skb20018, destroyer 1;
+skb20019, destroyer 1;
+skb30001, forcemaster 1;
+skb30002, forcemaster 1;
+skb30003, forcemaster 1;
+skb30004, forcemaster 1;
+skb30005, forcemaster 1;
+skb30006, forcemaster 1;
+skb30007, forcemaster 1;
+skb30008, forcemaster 1;
+skb30009, forcemaster 1;
+skb30010, forcemaster 1;
+skb30011, forcemaster 1;
+skb30012, forcemaster 1;
+skb30013, forcemaster 1;
+skb30014, forcemaster 1;
+skb30015, forcemaster 1;
+skb30016, forcemaster 1;
+skb30018, forcemaster 1;
+skb30019, forcemaster 1;
+skb40001, kungfumaster 1;
+skb40002, kungfumaster 1;
+skb40003, kungfumaster 1;
+skb40004, kungfumaster 1;
+skb40005, kungfumaster 1;
+skb40006, kungfumaster 1;
+skb40007, kungfumaster 1;
+skb40008, kungfumaster 1;
+skb40009, kungfumaster 1;
+skb40010, kungfumaster 1;
+skb40011, kungfumaster 1;
+skb40012, kungfumaster 1;
+skb40013, kungfumaster 1;
+skb40014, kungfumaster 1;
+skb40015, kungfumaster 1;
+skb40016, kungfumaster 1;
+skb40018, kungfumaster 1;
+skb40019, kungfumaster 1;
+skb60001, assassin 1;
+skb60002, assassin 1;
+skb60003, assassin 1;
+skb60004, assassin 1;
+skb60005, assassin 1;
+skb60006, assassin 1;
+skb60007, assassin 1;
+skb60008, assassin 1;
+skb60009, assassin 1;
+skb60010, assassin 1;
+skb60011, assassin 1;
+skb60012, assassin 1;
+skb60013, assassin 1;
+skb60014, assassin 1;
+skb60015, assassin 1;
+skb60016, assassin 1;
+skb60017, assassin 1;
+skb60018, assassin 1;
+skb60019, assassin 1;
+eOu10010, costume Jin M 1;
+eOu10011, costume Jin M 1;
+eOu10012, costume Jin M 1;
+eOu10013, costume Jin M 1;
+eOu10014, costume Jin M 1;
+eOu10015, costume Jin M 1;
+eOu10016, costume Jin M 1;
+eOu10017, costume Jin M 1;
+eOu10018, costume Jin M 1;
+eOu10019, costume Jin M 1;
+eOu10020, costume Jin M 1;
+eOu10021, costume Jin M 1;
+eOu10022, costume Jin M 1;
+eOu10023, costume Jin M 1;
+eOu10024, costume Jin M 1;
+eOu10025, costume Jin M 1;
+eOu10026, costume Jin M 1;
+eOu10027, costume Jin M 1;
+eOu10028, costume Jin M 1;
+eCa10001, costume Jin M 1;
+eCa10003, costume Jin M 1;
+eCa10004, costume Jin M 1;
+eCa10005, costume Jin M 1;
+eCa10006, costume Jin M 1;
+eCa10007, costume Jin M 1;
+eCa10008, costume Jin M 1;
+eCa10009, costume Jin M 1;
+eCa10010, costume Jin M 1;
+eCa10011, costume Jin M 1;
+eCa10012, costume Jin M 1;
+eCa10013, costume Jin M 1;
+eOu10110, costume Jin F 1;
+eOu10111, costume Jin F 1;
+eOu10112, costume Jin F 1;
+eOu10113, costume Jin F 1;
+eOu10114, costume Jin F 1;
+eOu10115, costume Jin F 1;
+eOu10116, costume Jin F 1;
+eOu10117, costume Jin F 1;
+eOu10118, costume Jin F 1;
+eOu10119, costume Jin F 1;
+eOu10120, costume Jin F 1;
+eOu10121, costume Jin F 1;
+eOu10122, costume Jin F 1;
+eOu10123, costume Jin F 1;
+eOu10124, costume Jin F 1;
+eOu10125, costume Jin F 1;
+eOu10126, costume Jin F 1;
+eOu10127, costume Jin F 1;
+eOu10128, costume Jin F 1;
+eCa10101, costume Jin F 1;
+eCa10103, costume Jin F 1;
+eCa10104, costume Jin F 1;
+eCa10105, costume Jin F 1;
+eCa10106, costume Jin F 1;
+eCa10107, costume Jin F 1;
+eCa10108, costume Jin F 1;
+eCa10109, costume Jin F 1;
+eCa10110, costume Jin F 1;
+eCa10111, costume Jin F 1;
+eCa10112, costume Jin F 1;
+eCa10113, costume Jin F 1;
+eOu20010, costume Gon M 1;
+eOu20011, costume Gon M 1;
+eOu20012, costume Gon M 1;
+eOu20013, costume Gon M 1;
+eOu20014, costume Gon M 1;
+eOu20015, costume Gon M 1;
+eOu20016, costume Gon M 1;
+eOu20017, costume Gon M 1;
+eOu20018, costume Gon M 1;
+eOu20019, costume Gon M 1;
+eOu20020, costume Gon M 1;
+eOu20021, costume Gon M 1;
+eOu20022, costume Gon M 1;
+eOu20023, costume Gon M 1;
+eOu20024, costume Gon M 1;
+eOu20025, costume Gon M 1;
+eOu20026, costume Gon M 1;
+eOu20027, costume Gon M 1;
+eOu20028, costume Gon M 1;
+eCa20001, costume Gon M 1;
+eCa20003, costume Gon M 1;
+eCa20004, costume Gon M 1;
+eCa20005, costume Gon M 1;
+eCa20006, costume Gon M 1;
+eCa20007, costume Gon M 1;
+eCa20008, costume Gon M 1;
+eCa20009, costume Gon M 1;
+eCa20010, costume Gon M 1;
+eCa20011, costume Gon M 1;
+eCa20012, costume Gon M 1;
+eCa20013, costume Gon M 1;
+eOu30010, costume Lin M 1;
+eOu30011, costume Lin M 1;
+eOu30012, costume Lin M 1;
+eOu30013, costume Lin M 1;
+eOu30014, costume Lin M 1;
+eOu30015, costume Lin M 1;
+eOu30016, costume Lin M 1;
+eOu30017, costume Lin M 1;
+eOu30018, costume Lin M 1;
+eOu30019, costume Lin M 1;
+eOu30020, costume Lin M 1;
+eOu30021, costume Lin M 1;
+eOu30022, costume Lin M 1;
+eOu30023, costume Lin M 1;
+eOu30024, costume Lin M 1;
+eOu30025, costume Lin M 1;
+eOu30026, costume Lin M 1;
+eOu30027, costume Lin M 1;
+eOu30028, costume Lin M 1;
+eCa30001, costume Lin M 1;
+eCa30003, costume Lin M 1;
+eCa30004, costume Lin M 1;
+eCa30005, costume Lin M 1;
+eCa30006, costume Lin M 1;
+eCa30007, costume Lin M 1;
+eCa30008, costume Lin M 1;
+eCa30009, costume Lin M 1;
+eCa30010, costume Lin M 1;
+eCa30011, costume Lin M 1;
+eCa30012, costume Lin M 1;
+eCa30013, costume Lin M 1;
+eOu30110, costume Lyn F 1;
+eOu30111, costume Lyn F 1;
+eOu30112, costume Lyn F 1;
+eOu30113, costume Lyn F 1;
+eOu30114, costume Lyn F 1;
+eOu30115, costume Lyn F 1;
+eOu30116, costume Lyn F 1;
+eOu30117, costume Lyn F 1;
+eOu30118, costume Lyn F 1;
+eOu30119, costume Lyn F 1;
+eOu30120, costume Lyn F 1;
+eOu30121, costume Lyn F 1;
+eOu30122, costume Lyn F 1;
+eOu30123, costume Lyn F 1;
+eOu30124, costume Lyn F 1;
+eOu30125, costume Lyn F 1;
+eOu30126, costume Lyn F 1;
+eOu30127, costume Lyn F 1;
+eOu30128, costume Lyn F 1;
+eCa30101, costume Lyn F 1;
+eCa30103, costume Lyn F 1;
+eCa30104, costume Lyn F 1;
+eCa30105, costume Lyn F 1;
+eCa30106, costume Lyn F 1;
+eCa30107, costume Lyn F 1;
+eCa30108, costume Lyn F 1;
+eCa30109, costume Lyn F 1;
+eCa30110, costume Lyn F 1;
+eCa30111, costume Lyn F 1;
+eCa30112, costume Lyn F 1;
+eCa30113, costume Lyn F 1;
+eOu40010, costume cross 1;
+eOu40011, costume cross 1;
+eOu40012, costume cross 1;
+eOu40013, costume cross 1;
+eOu40014, costume cross 1;
+eOu40015, costume cross 1;
+eOu40016, costume cross 1;
+eOu40017, costume cross 1;
+eOu40018, costume cross 1;
+eOu40019, costume cross 1;
+eOu40020, costume cross 1;
+eOu40021, costume cross 1;
+eOu40022, costume cross 1;
+eOu40023, costume cross 1;
+eOu40024, costume cross 1;
+eOu40025, costume cross 1;
+eOu40026, costume cross 1;
+eOu40027, costume cross 1;
+eOu40028, costume cross 1;
+eCa40001, costume cross 1;
+eCa40003, costume cross 1;
+eCa40004, costume cross 1;
+eCa40005, costume cross 1;
+eCa40006, costume cross 1;
+eCa40007, costume cross 1;
+eCa40008, costume cross 1;
+eCa40009, costume cross 1;
+eCa40010, costume cross 1;
+eCa40011, costume cross 1;
+eCa40012, costume cross 1;
+eCa40013, costume cross 1;
+getexp01, exp potion lvl 10
+getexp02, exp lvl 40
+getexp03, exp lvl 80
+getexp04, till max
+eb640101, heroic frag

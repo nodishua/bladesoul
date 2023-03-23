@@ -1,0 +1,21 @@
+0,Silver Coins
+1,The God Stone
+2,Black God Stone
+3,Blue God Stone
+4,Black God Stone
+5,Hero Plank
+6,Wugong Essence
+7,Internal Energy Essence
+8,General Spirit Stone
+9,Advanced Spirit Stone
+10,The Highest Grade Spirit Stone
+11,Preserved Stone
+12,Unknown
+13,Exchange Mint
+14,Hongmen Essence
+15,Crimson Essence
+16,Blue Essence
+pac10032,Hero Costume Bag
+use60003, gatau
+level,
+hongmoon_level,

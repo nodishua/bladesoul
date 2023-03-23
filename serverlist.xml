@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<serverlist>
+  <server>
+    <id>1</id>
+    <ip>192.168.1.106</ip>
+    <gate_port>12020</gate_port>
+    <lobby_ip>192.168.1.106</lobby_ip>
+    <lobby_port>12040</lobby_port>
+	<name>Server 1</name>
+    <popular>1</popular>
+    <player_ip>192.168.1.106</player_ip>
+    <player_port>12050</player_port>
+  </server>
+</serverlist>

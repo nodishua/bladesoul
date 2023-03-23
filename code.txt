@@ -1,0 +1,4 @@
+aaPanel Internet Address: https://158.140.175.189:7800/02135888
+aaPanel Internal Address: https://192.168.200.128:7800/02135888
+username: xzabqexn
+password: 99e5e4e9
